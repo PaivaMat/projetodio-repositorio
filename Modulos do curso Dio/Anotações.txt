@@ -1,0 +1,2 @@
+Aqui ficarão as pastas contendo um roteiro categorizado, bem como os desafio e as atividades 
+propostas no curso Full Stack da Dio.
